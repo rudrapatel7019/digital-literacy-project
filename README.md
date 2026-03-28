@@ -58,7 +58,7 @@ Set up professional profiles on **GitHub**, **LinkedIn**, and **Kaggle**. Create
 ### Task 3 – Coding & Collaboration Platforms (Module 3)
 Completed a beginner challenge on **HackerRank** (Solve Me First). Built a **Google Form** titled *Digital Literacy Awareness Quiz* with 5 questions (MCQ + short answer) for batchmates. 
 
-🔗 **Google Form Link:** [Digital Literacy Awareness Quiz](https://forms.google.com/your-form-link-here)
+🔗 **Google Form Link:** [Digital Literacy Awareness Quiz](https://docs.google.com/forms/d/e/1FAIpQLSficrpmXg8S-wSHRjZWFV4AnaQOi0WIkymTVlAh5JkLvyuh0w/viewform)
 
 ### Task 4 – Email Etiquette (Module 4)
 Drafted two professional emails: one requesting a deadline extension from a professor, and one expressing interest in a summer internship. Created a Social Media Do's and Don'ts checklist for college students.
